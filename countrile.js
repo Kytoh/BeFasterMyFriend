@@ -7,7 +7,8 @@
 // @match        https://countryle.com/*
 // @run-at       document-start
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Kytoh/BeFasterMyFriend/master/countrile
+// @updateURL    https://raw.githubusercontent.com/Kytoh/BeFasterMyFriend/main/countrile.js
+// @downloadURL  https://raw.githubusercontent.com/Kytoh/BeFasterMyFriend/main/countrile.js
 // @namespace    http://yuuu.es
 // ==/UserScript==
 
