@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Countryle NoGPS Mode
 // @description  No GPS Mode
-// @version      1.0.0
+// @version      1.0.1
 // @author       YuuuES
 // @license      MIT
 // @match        https://countryle.com/*
@@ -16,5 +16,5 @@ document.addEventListener("keydown", t);
 
 function t(){
         document.querySelectorAll('.coordinates-field').forEach(el => el.remove());
-        document.querySelectorAll('.difference-arrow').forEach(el => el.remove());
+        //document.querySelectorAll('.difference-arrow').forEach(el => el.remove());
 }
